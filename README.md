@@ -43,6 +43,9 @@ To develop and compare ANN and CNN models for handwritten digit recognition and 
 * Scikit-Learn
 * PIL
 * Streamlit
+  
+## Note
+The MNIST dataset is not included in this repository due to its large size and can be downloaded automatically via TensorFlow/Keras or from the official source. Additionally, the demo video is not hosted in the repository due to file size limitations; however, a complete walkthrough and demonstration are available on my LinkedIn profile.
 
 ## Author
 
